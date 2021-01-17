@@ -13,7 +13,6 @@ module.exports = {
         .setTitle('Moderation')
         .addField('`>kick`', 'Kicks a member from your server via mention or ID')
         .addField('`>ban`', 'Bans a member from your server via mention or ID')
-        .addField('`>unban`', 'Unban a member from you server via ID')
         .addField('`>mute`', 'Mute a member from your server via Mention')
         .addField('`>unmute`', 'Unmute a member from your server via Mention')
         .addField('`>clear`', 'Purges messages')
